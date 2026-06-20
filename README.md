@@ -6,7 +6,6 @@ Uma página estática de perfil do **Orkut** bem simples, com direito a depoimen
 
 ```bash
 ├── src/                   
-│   ├── index.html         # A página principal
 │   ├── styles/            # CSS 
 │   ├── js/                # JavaScript (tocador de vinil, confete, etc)
 │   └── assets/
@@ -17,6 +16,7 @@ Uma página estática de perfil do **Orkut** bem simples, com direito a depoimen
 │   ├── generate_qrcode.py # Gera QR code estilizado
 │   └── requirements.txt   # Dependências
 │
+│   index.html         # A página principal
 └── README.md (você está aqui!)
 ```
 
