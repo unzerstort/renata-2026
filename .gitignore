@@ -1,2 +1,5 @@
 __pycache__
 venv
+scripts/qrcode.png
+.DS_Store
+Thumbs.db
